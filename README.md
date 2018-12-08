@@ -5,7 +5,7 @@ Solidarity in opposing the Australian Assistance and Access Bill (#AABill)
 A repo to provide easy-to-use solutions to blackout Australia, in solidarity
 with Australians who oppose the Assistance and Access Bill.
 
-## How this repo is organised?
+## How is this repo organised?
 
 Preferrably there should be one subdirectory per major (family of) OSes. Each
 directory shall contain some easy-to-use setup and teardown scripts or
