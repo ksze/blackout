@@ -36,7 +36,11 @@ The major (families of) operating systems I want to have covered are:
 - GNU/Linux
 - macOS
 - BSD
+
+Bonus
 - mmmmaybe Android
+- iOS (is it technically feasible?)
+- other scriptable routers (e.g. RouterOS?)
 
 Contributions are welcome via pull requests
 
