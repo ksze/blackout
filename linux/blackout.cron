@@ -1,0 +1,2 @@
+# Update the blocklist every hour.
+0 * * * * root /usr/local/sbin/blackout.sh
